@@ -1,6 +1,7 @@
-### README em Inglês
+# Task Manager / Gerenciador de Tarefas
 
-```markdown
+## English
+
 # Task Manager
 
 This is a simple task manager application built with Python and Tkinter. The application allows users to add, list, and remove tasks. Initially, it runs in the terminal and later integrates a graphical user interface (GUI).
@@ -58,16 +59,6 @@ This is a simple task manager application built with Python and Tkinter. The app
     python gui.py
     ```
 
-## Project Structure
-
-```
-task-manager/
-├── venv/
-├── tarefas.py
-├── gui.py
-├── README.md
-└── requirements.txt
-```
 
 ## Contributing
 
@@ -77,9 +68,10 @@ task-manager/
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
 
-### README em Português
 
-```markdown
+
+## Português
+
 # Gerenciador de Tarefas
 
 Este é um aplicativo simples de gerenciamento de tarefas construído com Python e Tkinter. O aplicativo permite aos usuários adicionar, listar e remover tarefas. Inicialmente, ele é executado no terminal e posteriormente integra uma interface gráfica (GUI).
@@ -137,16 +129,6 @@ Este é um aplicativo simples de gerenciamento de tarefas construído com Python
     python gui.py
     ```
 
-## Estrutura do Projeto
-
-```
-gerenciador-tarefas/
-├── venv/
-├── tarefas.py
-├── gui.py
-├── README.md
-└── requirements.txt
-```
 
 ## Contribuindo
 
@@ -155,3 +137,4 @@ gerenciador-tarefas/
 3. Faça commit das suas alterações (`git commit -am 'Adiciona nova funcionalidade'`).
 4. Faça push para a branch (`git push origin feature/sua-funcionalidade`).
 5. Crie um novo Pull Request.
+
